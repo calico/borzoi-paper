@@ -1,6 +1,6 @@
 ## Data Processing
 
-Processing of ENCODE, GTEx, FANTOM5, and CATlas training data is done through a Makefile. It requires a number of auxiliary files (e.g. genome alignments), which can be downloaded from the Borzoi training data bucket [here](https://storage.googleapis.com/borzoi-paper/data/) (GCP).<br/>
+Processing of ENCODE, GTEx, FANTOM5, and CATlas training data is done through a Makefile. It requires a number of auxiliary files (e.g. genome alignments), which can be downloaded manually from [this](https://storage.googleapis.com/seqnn-share/helper/dependencies/) data bucket (GCP), or by running the script 'download_dependencies.sh'.<br/>
 
 The Makefile relies on the script 'hound_data.py' from the [baskerville repository](https://github.com/calico/baskerville/blob/main/src/baskerville/scripts/hound_data.py), which in turn calls the scripts 'hound_data_read.py' and 'hound_data_write.py' from the same repo, in order to (1) read coverage data (from bigwig-like .w5 files) along with a matched segment from a fasta genome file, and (2) write the (one-hot coded) sequence and coverage values into compressed TF records.<br/>
 
