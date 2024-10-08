@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python /home/jlinder/basenji/bin/borzoi_bench_paqtl_folds.py --name "5/16-johannes-paqtl-v2" -r -d 0 -e tf210 --rc --msl 12 --max_proc 8 -q geforce --stats COVR -t targets_gtex.txt params_pred.json test_paqtl
+borzoi_bench_paqtl_folds.py -r --vcf data/qtl_cat/paqtl_pip90ea -d 0 -e borzoi_py310 --rc -u --msl 12 --max_proc 8 -q rtx4090 --f_list 3 -c 4 --stats COVR -t targets_gtex.txt params_pred.json saved_models
