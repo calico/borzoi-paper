@@ -1,0 +1,11 @@
+{
+    "num_targets": 452,
+    "seq_length": 393216,
+    "seq_1hot": true,
+    "pool_width": 32,
+    "crop_bp": 0,
+    "target_length": 12288,
+    "test_seqs": 3508,
+    "valid_seqs": 3313,
+    "train_seqs": 20599
+}

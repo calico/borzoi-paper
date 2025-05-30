@@ -1,0 +1,354 @@
+	identifier	source	file	clip	clip_soft	scale	sum_stat	strand_pair	description	strand
+0	CNhs11046+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11046/summary/coverage+.w5	384	384	1.0	sum_sqrt	1	CAGE:embryonic kidney cell line: HEK293/SLAM untreated	+
+1	CNhs11046-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11046/summary/coverage-.w5	384	384	1.0	sum_sqrt	0	CAGE:embryonic kidney cell line: HEK293/SLAM untreated	-
+2	CNhs11250+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11250/summary/coverage+.w5	384	384	1.0	sum_sqrt	3	CAGE:chronic myelogenous leukemia cell line:K562	+
+3	CNhs11250-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11250/summary/coverage-.w5	384	384	1.0	sum_sqrt	2	CAGE:chronic myelogenous leukemia cell line:K562	-
+4	CNhs11253+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11253/summary/coverage+.w5	384	384	1.0	sum_sqrt	5	CAGE:acute lymphoblastic leukemia (T-ALL) cell line:Jurkat	+
+5	CNhs11253-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11253/summary/coverage-.w5	384	384	1.0	sum_sqrt	4	CAGE:acute lymphoblastic leukemia (T-ALL) cell line:Jurkat	-
+6	CNhs11943+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11943/summary/coverage+.w5	384	384	1.0	sum_sqrt	7	CAGE:breast carcinoma cell line:MCF7	+
+7	CNhs11943-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs11943/summary/coverage-.w5	384	384	1.0	sum_sqrt	6	CAGE:breast carcinoma cell line:MCF7	-
+8	CNhs12325+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12325/summary/coverage+.w5	384	384	1.0	sum_sqrt	9	CAGE:epitheloid carcinoma cell line: HelaS3 ENCODE, biol_	+
+9	CNhs12325-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12325/summary/coverage-.w5	384	384	1.0	sum_sqrt	8	CAGE:epitheloid carcinoma cell line: HelaS3 ENCODE, biol_	-
+10	CNhs12330+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12328/summary/coverage+.w5	384	384	1.0	sum_sqrt	11	CAGE:hepatocellular carcinoma cell line: HepG2 ENCODE, biol_	+
+11	CNhs12330-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12328/summary/coverage-.w5	384	384	1.0	sum_sqrt	10	CAGE:hepatocellular carcinoma cell line: HepG2 ENCODE, biol_	-
+12	CNhs12331+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12331/summary/coverage+.w5	384	384	1.0	sum_sqrt	13	CAGE:B lymphoblastoid cell line: GM12878 ENCODE, biol_	+
+13	CNhs12331-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12331/summary/coverage-.w5	384	384	1.0	sum_sqrt	12	CAGE:B lymphoblastoid cell line: GM12878 ENCODE, biol_	-
+14	CNhs12334+	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12334/summary/coverage+.w5	384	384	1.0	sum_sqrt	15	CAGE:chronic myelogenous leukemia cell line:K562 ENCODE, biol_	+
+15	CNhs12334-	fantom	/scratch4/jlinder/tillage/datasets/human/cage/fantom/CNhs12334/summary/coverage-.w5	384	384	1.0	sum_sqrt	14	CAGE:chronic myelogenous leukemia cell line:K562 ENCODE, biol_	-
+16	ENCFF093VXI	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EJD/summary/coverage.w5	64	32	2.0	mean	16	DNASE:GM12878	.
+17	ENCFF148BGE	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EJR/summary/coverage.w5	64	32	2.0	mean	17	DNASE:HEK293T	.
+18	ENCFF050BDU	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EJT/summary/coverage.w5	64	32	2.0	mean	18	DNASE:HeLa-S3	.
+19	ENCFF136DBS	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EJV/summary/coverage.w5	64	32	2.0	mean	19	DNASE:HepG2	.
+20	ENCFF915DFR	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EMT/summary/coverage.w5	64	32	2.0	mean	20	DNASE:GM12878	.
+21	ENCFF131HMO	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EMU/summary/coverage.w5	64	32	2.0	mean	21	DNASE:H1-hESC	.
+22	ENCFF696IEW	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EMZ/summary/coverage.w5	64	32	2.0	mean	22	DNASE:H7-hESC	.
+23	ENCFF205TKQ	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000ENP/summary/coverage.w5	64	32	2.0	mean	23	DNASE:HepG2	.
+24	ENCFF916JRN	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EOS/summary/coverage.w5	64	32	2.0	mean	24	DNASE:Jurkat clone E61	.
+25	ENCFF413AHU	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EOT/summary/coverage.w5	64	32	2.0	mean	25	DNASE:K562	.
+26	ENCFF868NHV	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EOY/summary/coverage.w5	64	32	2.0	mean	26	DNASE:K562	.
+27	ENCFF565YDB	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EPC/summary/coverage.w5	64	32	2.0	mean	27	DNASE:K562	.
+28	ENCFF924FJR	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EPH/summary/coverage.w5	64	32	2.0	mean	28	DNASE:MCF-7	.
+29	ENCFF411ZPI	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR000EPJ/summary/coverage.w5	64	32	2.0	mean	29	DNASE:MCF-7	.
+30	ENCFF577SOF	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR149XIL/summary/coverage.w5	64	32	2.0	mean	30	DNASE:HepG2	.
+31	ENCFF334GMP	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR275ICP/summary/coverage.w5	64	32	2.0	mean	31	DNASE:H9	.
+32	ENCFF971AHO	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR921NMD/summary/coverage.w5	64	32	2.0	mean	32	DNASE:K562	.
+33	ENCFF977IGB	encode	/scratch4/jlinder/tillage/datasets/human/dnase/encode/ENCSR959ZXU/summary/coverage.w5	64	32	2.0	mean	33	DNASE:HeLa-S3	.
+34	ENCFF470BSF+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEC/summary/coverage+.w5	384	384	0.3	sum_sqrt	35	RNA:GM12878	+
+35	ENCFF470BSF-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEC/summary/coverage-.w5	384	384	0.3	sum_sqrt	34	RNA:GM12878	-
+36	ENCFF617ZDV+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AED/summary/coverage+.w5	384	384	0.3	sum_sqrt	37	RNA:GM12878	+
+37	ENCFF617ZDV-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AED/summary/coverage-.w5	384	384	0.3	sum_sqrt	36	RNA:GM12878	-
+38	ENCFF993POP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEE/summary/coverage+.w5	384	384	0.3	sum_sqrt	39	RNA:GM12878	+
+39	ENCFF993POP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEE/summary/coverage-.w5	384	384	0.3	sum_sqrt	38	RNA:GM12878	-
+40	ENCFF678ITA+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEF/summary/coverage+.w5	384	384	0.3	sum_sqrt	41	RNA:GM12878	+
+41	ENCFF678ITA-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEF/summary/coverage-.w5	384	384	0.3	sum_sqrt	40	RNA:GM12878	-
+42	ENCFF812WIL	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEG/summary/coverage.w5	384	384	0.3	sum_sqrt	42	RNA:GM12878	.
+43	ENCFF142WGV	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEH/summary/coverage.w5	384	384	0.3	sum_sqrt	43	RNA:GM12878	.
+44	ENCFF980ZHM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEL/summary/coverage+.w5	384	384	0.3	sum_sqrt	45	RNA:K562	+
+45	ENCFF980ZHM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEL/summary/coverage-.w5	384	384	0.3	sum_sqrt	44	RNA:K562	-
+46	ENCFF132DVY+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEM/summary/coverage+.w5	384	384	0.3	sum_sqrt	47	RNA:K562	+
+47	ENCFF132DVY-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEM/summary/coverage-.w5	384	384	0.3	sum_sqrt	46	RNA:K562	-
+48	ENCFF919EXM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEN/summary/coverage+.w5	384	384	0.3	sum_sqrt	49	RNA:K562	+
+49	ENCFF919EXM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEN/summary/coverage-.w5	384	384	0.3	sum_sqrt	48	RNA:K562	-
+50	ENCFF552CYS+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEO/summary/coverage+.w5	384	384	0.3	sum_sqrt	51	RNA:K562	+
+51	ENCFF552CYS-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEO/summary/coverage-.w5	384	384	0.3	sum_sqrt	50	RNA:K562	-
+52	ENCFF991BRF	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEP/summary/coverage.w5	384	384	0.3	sum_sqrt	52	RNA:K562	.
+53	ENCFF769VLM	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEQ/summary/coverage.w5	384	384	0.3	sum_sqrt	53	RNA:K562	.
+54	ENCFF549SVZ	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000BXX/summary/coverage.w5	384	384	0.3	sum_sqrt	54	RNA:Jurkat, Clone E6-1	.
+55	ENCFF501KFP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000COU/summary/coverage+.w5	384	384	0.3	sum_sqrt	56	RNA:H1	+
+56	ENCFF501KFP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000COU/summary/coverage-.w5	384	384	0.3	sum_sqrt	55	RNA:H1	-
+57	ENCFF065PJM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPE/summary/coverage+.w5	384	384	0.3	sum_sqrt	58	RNA:HepG2	+
+58	ENCFF065PJM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPE/summary/coverage-.w5	384	384	0.3	sum_sqrt	57	RNA:HepG2	-
+59	ENCFF119ONM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPH/summary/coverage+.w5	384	384	0.3	sum_sqrt	60	RNA:K562	+
+60	ENCFF119ONM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPH/summary/coverage-.w5	384	384	0.3	sum_sqrt	59	RNA:K562	-
+61	ENCFF425GMM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPP/summary/coverage+.w5	384	384	0.3	sum_sqrt	62	RNA:HeLa-S3 cytosolic fraction	+
+62	ENCFF425GMM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPP/summary/coverage-.w5	384	384	0.3	sum_sqrt	61	RNA:HeLa-S3 cytosolic fraction	-
+63	ENCFF515VVS+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPQ/summary/coverage+.w5	384	384	0.3	sum_sqrt	64	RNA:HeLa-S3 nuclear fraction	+
+64	ENCFF515VVS-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPQ/summary/coverage-.w5	384	384	0.3	sum_sqrt	63	RNA:HeLa-S3 nuclear fraction	-
+65	ENCFF708PAF+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPR/summary/coverage+.w5	384	384	0.3	sum_sqrt	66	RNA:HeLa-S3	+
+66	ENCFF708PAF-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPR/summary/coverage-.w5	384	384	0.3	sum_sqrt	65	RNA:HeLa-S3	-
+67	ENCFF795XIC+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPT/summary/coverage+.w5	384	384	0.3	sum_sqrt	68	RNA:MCF-7	+
+68	ENCFF795XIC-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPT/summary/coverage-.w5	384	384	0.3	sum_sqrt	67	RNA:MCF-7	-
+69	ENCFF808PHI	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CWQ/summary/coverage.w5	384	384	0.3	sum_sqrt	69	RNA:MCF-7	.
+70	ENCFF684NXV	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYN/summary/coverage.w5	384	384	0.3	sum_sqrt	70	RNA:GM12878	.
+71	ENCFF860AKE	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYO/summary/coverage.w5	384	384	0.3	sum_sqrt	71	RNA:K562	.
+72	ENCFF587FSZ	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYQ/summary/coverage.w5	384	384	0.3	sum_sqrt	72	RNA:HeLa-S3	.
+73	ENCFF995HXY	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYR/summary/coverage.w5	384	384	0.3	sum_sqrt	73	RNA:HepG2	.
+74	ENCFF636VGI+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR043RSE/summary/coverage+.w5	384	384	0.3	sum_sqrt	75	RNA:H1	+
+75	ENCFF636VGI-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR043RSE/summary/coverage-.w5	384	384	0.3	sum_sqrt	74	RNA:H1	-
+76	ENCFF073NKN	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR077AZT/summary/coverage.w5	384	384	0.3	sum_sqrt	76	RNA:GM12878	.
+77	ENCFF944XYT+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR109IQO/summary/coverage+.w5	384	384	0.3	sum_sqrt	78	RNA:K562	+
+78	ENCFF944XYT-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR109IQO/summary/coverage-.w5	384	384	0.3	sum_sqrt	77	RNA:K562	-
+79	ENCFF782HFV+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR151NGC/summary/coverage+.w5	384	384	0.3	sum_sqrt	80	RNA:GM12878	+
+80	ENCFF782HFV-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR151NGC/summary/coverage-.w5	384	384	0.3	sum_sqrt	79	RNA:GM12878	-
+81	ENCFF581ZGH+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR181ZGR/summary/coverage+.w5	384	384	0.3	sum_sqrt	82	RNA:HepG2	+
+82	ENCFF581ZGH-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR181ZGR/summary/coverage-.w5	384	384	0.3	sum_sqrt	81	RNA:HepG2	-
+83	ENCFF908VIH+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR245ATJ/summary/coverage+.w5	384	384	0.3	sum_sqrt	84	RNA:HepG2	+
+84	ENCFF908VIH-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR245ATJ/summary/coverage-.w5	384	384	0.3	sum_sqrt	83	RNA:HepG2	-
+85	ENCFF801PRP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR329MHM/summary/coverage+.w5	384	384	0.3	sum_sqrt	86	RNA:HepG2	+
+86	ENCFF801PRP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR329MHM/summary/coverage-.w5	384	384	0.3	sum_sqrt	85	RNA:HepG2	-
+87	ENCFF301XEH+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR355JZC/summary/coverage+.w5	384	384	0.3	sum_sqrt	88	RNA:MCF-7	+
+88	ENCFF301XEH-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR355JZC/summary/coverage-.w5	384	384	0.3	sum_sqrt	87	RNA:MCF-7	-
+89	ENCFF181QTI+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR490SQH/summary/coverage+.w5	384	384	0.3	sum_sqrt	90	RNA:H7	+
+90	ENCFF181QTI-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR490SQH/summary/coverage-.w5	384	384	0.3	sum_sqrt	89	RNA:H7	-
+91	ENCFF150UWD+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR552EGO/summary/coverage+.w5	384	384	0.3	sum_sqrt	92	RNA:HeLa-S3	+
+92	ENCFF150UWD-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR552EGO/summary/coverage-.w5	384	384	0.3	sum_sqrt	91	RNA:HeLa-S3	-
+93	ENCFF917RKL+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR561FEE/summary/coverage+.w5	384	384	0.3	sum_sqrt	94	RNA:HepG2	+
+94	ENCFF917RKL-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR561FEE/summary/coverage-.w5	384	384	0.3	sum_sqrt	93	RNA:HepG2	-
+95	ENCFF520RFL+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR588EJX/summary/coverage+.w5	384	384	0.3	sum_sqrt	96	RNA:H1	+
+96	ENCFF520RFL-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR588EJX/summary/coverage-.w5	384	384	0.3	sum_sqrt	95	RNA:H1	-
+97	ENCFF585HTZ+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR615EEK/summary/coverage+.w5	384	384	0.3	sum_sqrt	98	RNA:K562	+
+98	ENCFF585HTZ-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR615EEK/summary/coverage-.w5	384	384	0.3	sum_sqrt	97	RNA:K562	-
+99	ENCFF544ZDA+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR637VLS/summary/coverage+.w5	384	384	0.3	sum_sqrt	100	RNA:K562	+
+100	ENCFF544ZDA-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR637VLS/summary/coverage-.w5	384	384	0.3	sum_sqrt	99	RNA:K562	-
+101	ENCFF190ZWO+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR670WQY/summary/coverage+.w5	384	384	0.3	sum_sqrt	102	RNA:H1	+
+102	ENCFF190ZWO-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR670WQY/summary/coverage-.w5	384	384	0.3	sum_sqrt	101	RNA:H1	-
+103	ENCFF920HIF+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR712BRU/summary/coverage+.w5	384	384	0.3	sum_sqrt	104	RNA:H9	+
+104	ENCFF920HIF-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR712BRU/summary/coverage-.w5	384	384	0.3	sum_sqrt	103	RNA:H9	-
+105	ENCFF312ZLI+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR792OIJ/summary/coverage+.w5	384	384	0.3	sum_sqrt	106	RNA:K562	+
+106	ENCFF312ZLI-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR792OIJ/summary/coverage-.w5	384	384	0.3	sum_sqrt	105	RNA:K562	-
+107	ENCFF509KPQ+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR820PHH/summary/coverage+.w5	384	384	0.3	sum_sqrt	108	RNA:GM12878	+
+108	ENCFF509KPQ-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR820PHH/summary/coverage-.w5	384	384	0.3	sum_sqrt	107	RNA:GM12878	-
+109	ENCFF463TDW	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR843RJV/summary/coverage.w5	384	384	0.3	sum_sqrt	109	RNA:GM12878	.
+110	ENCFF278EZT+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR885DVH/summary/coverage+.w5	384	384	0.3	sum_sqrt	111	RNA:K562	+
+111	ENCFF278EZT-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR885DVH/summary/coverage-.w5	384	384	0.3	sum_sqrt	110	RNA:K562	-
+112	ENCFF279MVV	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR889TRN/summary/coverage.w5	384	384	0.3	sum_sqrt	112	RNA:GM12878	.
+113	ENCFF031QGE+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR895ZTB/summary/coverage+.w5	384	384	0.3	sum_sqrt	114	RNA:H1	+
+114	ENCFF031QGE-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR895ZTB/summary/coverage-.w5	384	384	0.3	sum_sqrt	113	RNA:H1	-
+115	ENCFF696GRP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR985KAT/summary/coverage+.w5	384	384	0.3	sum_sqrt	116	RNA:HepG2	+
+116	ENCFF696GRP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR985KAT/summary/coverage-.w5	384	384	0.3	sum_sqrt	115	RNA:HepG2	-
+117	SRS008850	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP001540/SRS008850/coverage.w5	384	384	0.02	sum_sqrt	117	RNA:HapMap LCL RNA-seq of YRI individual (NA19257_yale)	.
+118	SRS008852	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP001540/SRS008852/coverage.w5	384	384	0.02	sum_sqrt	118	RNA:HapMap LCL RNA-seq of YRI individual (NA19131_yale)	.
+119	SRS008862	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP001540/SRS008862/coverage.w5	384	384	0.02	sum_sqrt	119	RNA:HapMap LCL RNA-seq of YRI individual (NA19190_yale)	.
+120	SRS008895	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP001540/SRS008895/coverage.w5	384	384	0.02	sum_sqrt	120	RNA:HapMap LCL RNA-seq of YRI individual (NA19131_argonne)	.
+121	SRS008897	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP001540/SRS008897/coverage.w5	384	384	0.02	sum_sqrt	121	RNA:HapMap LCL RNA-seq of YRI individual (NA19190_argonne)	.
+122	SRS008899	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP001540/SRS008899/coverage.w5	384	384	0.02	sum_sqrt	122	RNA:HapMap LCL RNA-seq of YRI individual (NA19257_argonne)	.
+123	SRS465179	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465179/coverage.w5	384	384	0.02	sum_sqrt	123	RNA:ActD:HeLa mRNA lifetime-SiControl-TI-0h D1	.
+124	SRS465180	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465180/coverage.w5	384	384	0.02	sum_sqrt	124	RNA:ActD:HeLa mRNA lifetime-SiControl-TI-3h D2	.
+125	SRS465181	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465181/coverage.w5	384	384	0.02	sum_sqrt	125	RNA:ActD:HeLa mRNA lifetime-SiControl-TI-6h D3	.
+126	SRS465182	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465182/coverage.w5	384	384	0.02	sum_sqrt	126	RNA:ActD:HeLa mRNA lifetime-SiYTHDF2-TI-0h D4	.
+127	SRS465183	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465183/coverage.w5	384	384	0.02	sum_sqrt	127	RNA:ActD:HeLa mRNA lifetime-SiYTHDF2-TI-3h D5	.
+128	SRS465184	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465184/coverage.w5	384	384	0.02	sum_sqrt	128	RNA:ActD:HeLa mRNA lifetime-SiYTHDF2-TI-6h D6	.
+129	SRS465185	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465185/coverage.w5	384	384	0.02	sum_sqrt	129	RNA:ActD:HeLa mRNA lifetime-SiControl-TI-0h E1	.
+130	SRS465186	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465186/coverage.w5	384	384	0.02	sum_sqrt	130	RNA:ActD:HeLa mRNA lifetime-SiControl-TI-3h E2	.
+131	SRS465187	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465187/coverage.w5	384	384	0.02	sum_sqrt	131	RNA:ActD:HeLa mRNA lifetime-SiControl-TI-6h E3	.
+132	SRS465188	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465188/coverage.w5	384	384	0.02	sum_sqrt	132	RNA:ActD:HeLa mRNA lifetime-SiYTHDF2-TI-0h E4	.
+133	SRS465189	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465189/coverage.w5	384	384	0.02	sum_sqrt	133	RNA:ActD:HeLa mRNA lifetime-SiYTHDF2-TI-3h E5	.
+134	SRS465190	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028325/SRS465190/coverage.w5	384	384	0.02	sum_sqrt	134	RNA:ActD:HeLa mRNA lifetime-SiYTHDF2-TI-6h E6	.
+135	SRS504583	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028887/SRS504583/coverage.w5	384	384	0.02	sum_sqrt	135	RNA:4sU:HEK293 4suRNA	.
+136	SRS504584	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028887/SRS504584/coverage.w5	384	384	0.02	sum_sqrt	136	RNA:4sU:HEK293 total RNA	.
+137	SRS504585	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028887/SRS504585/coverage.w5	384	384	0.02	sum_sqrt	137	RNA:4sU:HEK293 flow-through	.
+138	SRS504588	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028887/SRS504588/coverage.w5	384	384	0.02	sum_sqrt	138	RNA:4sU:MCF7 total RNA	.
+139	SRS529941	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028887/SRS529941/coverage.w5	384	384	0.02	sum_sqrt	139	RNA:4sU:HEK293 mRNAseq library	.
+140	SRS1013658	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013658/coverage.w5	384	384	0.02	sum_sqrt	140	RNA:4sU:Jurkat 4sU-labeled RNA 4 hours 4CIP	.
+141	SRS1013659	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013659/coverage.w5	384	384	0.02	sum_sqrt	141	RNA:4sU:Jurkat 4sU-labeled RNA 4 hours 4BIP	.
+142	SRS1013660	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013660/coverage.w5	384	384	0.02	sum_sqrt	142	RNA:4sU:Jurkat 4sU-labeled RNA 4 hours 4AIP	.
+143	SRS1013661	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013661/coverage.w5	384	384	0.02	sum_sqrt	143	RNA:4sU:Jurkat 4sU-labeled RNA 3 hours 3CIP	.
+144	SRS1013662	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013662/coverage.w5	384	384	0.02	sum_sqrt	144	RNA:4sU:Jurkat 4sU-labeled RNA 3 hours 3BIP	.
+145	SRS1013663	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013663/coverage.w5	384	384	0.02	sum_sqrt	145	RNA:4sU:Jurkat 4sU-labeled RNA 3 hours 3AIP	.
+146	SRS1013664	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013664/coverage.w5	384	384	0.02	sum_sqrt	146	RNA:4sU:Jurkat 4sU-labeled RNA 2 hours 2CIP	.
+147	SRS1013665	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013665/coverage.w5	384	384	0.02	sum_sqrt	147	RNA:4sU:Jurkat 4sU-labeled RNA 2 hours 2BIP	.
+148	SRS1013666	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013666/coverage.w5	384	384	0.02	sum_sqrt	148	RNA:4sU:Jurkat 4sU-labeled RNA 2 hours 2AIP	.
+149	SRS1013667	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013667/coverage.w5	384	384	0.02	sum_sqrt	149	RNA:4sU:Jurkat 4sU-labeled RNA 1 hour 1CIP	.
+150	SRS1013668	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013668/coverage.w5	384	384	0.02	sum_sqrt	150	RNA:4sU:Jurkat 4sU-labeled RNA 1 hour 1AIP	.
+151	SRS1013669	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013669/coverage.w5	384	384	0.02	sum_sqrt	151	RNA:4sU:Jurkat 4sU-labeled RNA Unactivated UCIP	.
+152	SRS1013670	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013670/coverage.w5	384	384	0.02	sum_sqrt	152	RNA:4sU:Jurkat 4sU-labeled RNA Unactivated UBIP	.
+153	SRS1013671	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013671/coverage.w5	384	384	0.02	sum_sqrt	153	RNA:4sU:Jurkat 4sU-labeled RNA Unactivated UAIP	.
+154	SRS1013672	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013672/coverage.w5	384	384	0.02	sum_sqrt	154	RNA:4sU:Jurkat total RNA 4 hours 4CT	.
+155	SRS1013673	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013673/coverage.w5	384	384	0.02	sum_sqrt	155	RNA:4sU:Jurkat total RNA 4 hours 4BT	.
+156	SRS1013674	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013674/coverage.w5	384	384	0.02	sum_sqrt	156	RNA:4sU:Jurkat total RNA 4 hours 4AT	.
+157	SRS1013675	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013675/coverage.w5	384	384	0.02	sum_sqrt	157	RNA:4sU:Jurkat total RNA 3 hours 3CT	.
+158	SRS1013676	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013676/coverage.w5	384	384	0.02	sum_sqrt	158	RNA:4sU:Jurkat total RNA 3 hours 3BT	.
+159	SRS1013677	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013677/coverage.w5	384	384	0.02	sum_sqrt	159	RNA:4sU:Jurkat total RNA 3 hours 3AT	.
+160	SRS1013678	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013678/coverage.w5	384	384	0.02	sum_sqrt	160	RNA:4sU:Jurkat total RNA 2 hours 2CT	.
+161	SRS1013679	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013679/coverage.w5	384	384	0.02	sum_sqrt	161	RNA:4sU:Jurkat total RNA 2 hours 2BT	.
+162	SRS1013680	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013680/coverage.w5	384	384	0.02	sum_sqrt	162	RNA:4sU:Jurkat total RNA 2 hours 2AT	.
+163	SRS1013681	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013681/coverage.w5	384	384	0.02	sum_sqrt	163	RNA:4sU:Jurkat total RNA 1 hours 1CT	.
+164	SRS1013682	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013682/coverage.w5	384	384	0.02	sum_sqrt	164	RNA:4sU:Jurkat total RNA 1 hours 1AT	.
+165	SRS1013683	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013683/coverage.w5	384	384	0.02	sum_sqrt	165	RNA:4sU:Jurkat total RNA Unactivated hours UCT	.
+166	SRS1013684	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013684/coverage.w5	384	384	0.02	sum_sqrt	166	RNA:4sU:Jurkat total RNA Unactivated hours UBT	.
+167	SRS1013685	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013685/coverage.w5	384	384	0.02	sum_sqrt	167	RNA:4sU:Jurkat total RNA Unactivated hours UAT	.
+168	SRS1170024	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170024/coverage.w5	384	384	0.02	sum_sqrt	168	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19257) [19257-60-1_C311JACXX-6-19]	.
+169	SRS1170025	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170025/coverage.w5	384	384	0.02	sum_sqrt	169	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19257) [19257-60-1_C30NNACXX-6-19]	.
+170	SRS1170026	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170026/coverage.w5	384	384	0.02	sum_sqrt	170	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19257) [19257-60-1_C30BHACXX-6-19]	.
+171	SRS1170027	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170027/coverage.w5	384	384	0.02	sum_sqrt	171	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19257) [19257-30-1_C311JACXX-6-18]	.
+172	SRS1170028	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170028/coverage.w5	384	384	0.02	sum_sqrt	172	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19257) [19257-30-1_C30NNACXX-6-18]	.
+173	SRS1170029	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170029/coverage.w5	384	384	0.02	sum_sqrt	173	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19257) [19257-30-1_C30BHACXX-6-18]	.
+174	SRS1170090	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170090/coverage.w5	384	384	0.02	sum_sqrt	174	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19190) [19190-60-1_C311JACXX-1-08]	.
+175	SRS1170091	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170091/coverage.w5	384	384	0.02	sum_sqrt	175	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19190) [19190-60-1_C30NNACXX-1-08]	.
+176	SRS1170092	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170092/coverage.w5	384	384	0.02	sum_sqrt	176	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19190) [19190-60-1_C30BHACXX-1-08]	.
+177	SRS1170093	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170093/coverage.w5	384	384	0.02	sum_sqrt	177	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19190) [19190-30-1_C30NNACXX-1-07]	.
+178	SRS1170094	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170094/coverage.w5	384	384	0.02	sum_sqrt	178	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19190) [19190-30-1_C311JACXX-1-07]	.
+179	SRS1170095	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170095/coverage.w5	384	384	0.02	sum_sqrt	179	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19190) [19190-30-1_C30BHACXX-1-07]	.
+180	SRS1170160	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170160/coverage.w5	384	384	0.02	sum_sqrt	180	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19131) [19131-60-2_C311JACXX-8-21]	.
+181	SRS1170161	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170161/coverage.w5	384	384	0.02	sum_sqrt	181	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19131) [19131-60-2_C30NNACXX-8-21]	.
+182	SRS1170162	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170162/coverage.w5	384	384	0.02	sum_sqrt	182	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19131) [19131-60-2_C30BHACXX-8-21]	.
+183	SRS1170163	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170163/coverage.w5	384	384	0.02	sum_sqrt	183	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19131) [19131-30-2_C311JACXX-8-20]	.
+184	SRS1170164	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170164/coverage.w5	384	384	0.02	sum_sqrt	184	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19131) [19131-30-2_C30NNACXX-8-20]	.
+185	SRS1170165	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP066450/SRS1170165/coverage.w5	384	384	0.02	sum_sqrt	185	RNA:4sU:HapMap LCL 4sU-seq of YRI individual (NA19131) [19131-30-2_C30BHACXX-8-20]	.
+186	SRS1196884	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196884/coverage.w5	384	384	0.02	sum_sqrt	186	RNA:4sU:K562 Total RNA-Seq rep2	.
+187	SRS1196885	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196885/coverage.w5	384	384	0.02	sum_sqrt	187	RNA:4sU:K562 Total RNA-Seq rep1	.
+188	SRS1196886	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196886/coverage.w5	384	384	0.02	sum_sqrt	188	RNA:4sU:K562 Total RNA-Frag-Seq rep2	.
+189	SRS1196887	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196887/coverage.w5	384	384	0.02	sum_sqrt	189	RNA:4sU:K562 Total RNA-Frag-Seq rep1	.
+190	SRS1196888	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196888/coverage.w5	384	384	0.02	sum_sqrt	190	RNA:4sU:K562 4sU-Seq rep2	.
+191	SRS1196889	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196889/coverage.w5	384	384	0.02	sum_sqrt	191	RNA:4sU:K562 4sU-Seq rep1	.
+192	SRS1196890	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196890/coverage.w5	384	384	0.02	sum_sqrt	192	RNA:4sU:K562 TT-Seq rep2	.
+193	SRS1196891	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP067119/SRS1196891/coverage.w5	384	384	0.02	sum_sqrt	193	RNA:4sU:K562 TT-Seq rep1	.
+194	SRS1303345	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303345/coverage.w5	384	384	0.02	sum_sqrt	194	RNA:ActD:HEK293T FTO knockdown 2	.
+195	SRS1303346	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303346/coverage.w5	384	384	0.02	sum_sqrt	195	RNA:ActD:HEK293T FTO knockdown 1	.
+196	SRS1303347	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303347/coverage.w5	384	384	0.02	sum_sqrt	196	RNA:ActD:HEK293T Control for FTO knockdown 2	.
+197	SRS1303348	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303348/coverage.w5	384	384	0.02	sum_sqrt	197	RNA:ActD:HEK293T Control for FTO knockdown 1	.
+198	SRS1303351	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303351/coverage.w5	384	384	0.02	sum_sqrt	198	RNA:ActD:HEK293T Control for DCP2 knockout 2	.
+199	SRS1303352	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303352/coverage.w5	384	384	0.02	sum_sqrt	199	RNA:ActD:HEK293T Control for DCP2 knockout 1	.
+200	SRS1735968	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735968/coverage.w5	384	384	0.02	sum_sqrt	200	RNA:ActD:HEK293T miCLIP-Seq of HEK293T cells hek293t_rnaseq	.
+201	SRS1735969	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735969/coverage.w5	384	384	0.02	sum_sqrt	201	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition ctrl_nt_1	.
+202	SRS1735970	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735970/coverage.w5	384	384	0.02	sum_sqrt	202	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition ctrl_nt_2	.
+203	SRS1735971	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735971/coverage.w5	384	384	0.02	sum_sqrt	203	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition ctrl_actD_2	.
+204	SRS1735972	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735972/coverage.w5	384	384	0.02	sum_sqrt	204	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition ctrl_actD_1	.
+205	SRS1735978	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735978/coverage.w5	384	384	0.02	sum_sqrt	205	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition nes-fto_nt_1	.
+206	SRS1735980	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735980/coverage.w5	384	384	0.02	sum_sqrt	206	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition nes-fto_nt_2	.
+207	SRS1735981	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735981/coverage.w5	384	384	0.02	sum_sqrt	207	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition nes-fto_actD_1	.
+208	SRS1735982	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1735982/coverage.w5	384	384	0.02	sum_sqrt	208	RNA:ActD:HEK293T half-life measurement by transcriptional inhibition nes-fto_actD_2	.
+209	SRS1386807	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386807/coverage.w5	384	384	0.02	sum_sqrt	209	RNA:ActD:K562__8h__rep2	.
+210	SRS1386808	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386808/coverage.w5	384	384	0.02	sum_sqrt	210	RNA:ActD:K562__4h__rep2	.
+211	SRS1386809	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386809/coverage.w5	384	384	0.02	sum_sqrt	211	RNA:ActD:K562__8h__rep1	.
+212	SRS1386810	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386810/coverage.w5	384	384	0.02	sum_sqrt	212	RNA:ActD:K562__4h__rep1	.
+213	SRS1386811	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386811/coverage.w5	384	384	0.02	sum_sqrt	213	RNA:ActD:K562__8h__rep0	.
+214	SRS1386812	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386812/coverage.w5	384	384	0.02	sum_sqrt	214	RNA:ActD:K562__4h__rep0	.
+215	SRS1386813	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386813/coverage.w5	384	384	0.02	sum_sqrt	215	RNA:ActD:K562__2h__rep2	.
+216	SRS1386814	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386814/coverage.w5	384	384	0.02	sum_sqrt	216	RNA:ActD:K562__2h__rep1	.
+217	SRS1386815	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386815/coverage.w5	384	384	0.02	sum_sqrt	217	RNA:ActD:K562__2h__rep0	.
+218	SRS1386816	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386816/coverage.w5	384	384	0.02	sum_sqrt	218	RNA:ActD:K562__0.5h__rep2	.
+219	SRS1386818	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386818/coverage.w5	384	384	0.02	sum_sqrt	219	RNA:ActD:K562__0.5h__rep1	.
+220	SRS1386819	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386819/coverage.w5	384	384	0.02	sum_sqrt	220	RNA:ActD:K562__0.5h__rep0	.
+221	SRS1386820	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386820/coverage.w5	384	384	0.02	sum_sqrt	221	RNA:ActD:K562__0.0h__rep2	.
+222	SRS1386821	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386821/coverage.w5	384	384	0.02	sum_sqrt	222	RNA:ActD:K562__0.0h__rep1	.
+223	SRS1386822	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386822/coverage.w5	384	384	0.02	sum_sqrt	223	RNA:ActD:K562__0.0h__rep0	.
+224	SRS1386823	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386823/coverage.w5	384	384	0.02	sum_sqrt	224	RNA:ActD:HUES9__8h__rep2	.
+225	SRS1386824	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386824/coverage.w5	384	384	0.02	sum_sqrt	225	RNA:ActD:HUES9__8h__rep1	.
+226	SRS1386825	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386825/coverage.w5	384	384	0.02	sum_sqrt	226	RNA:ActD:HUES9__4h__rep2	.
+227	SRS1386826	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386826/coverage.w5	384	384	0.02	sum_sqrt	227	RNA:ActD:HUES9__8h__rep0	.
+228	SRS1386827	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386827/coverage.w5	384	384	0.02	sum_sqrt	228	RNA:ActD:HUES9__4h__rep1	.
+229	SRS1386828	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386828/coverage.w5	384	384	0.02	sum_sqrt	229	RNA:ActD:HUES9__4h__rep0	.
+230	SRS1386829	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386829/coverage.w5	384	384	0.02	sum_sqrt	230	RNA:ActD:HUES9__2h__rep2	.
+231	SRS1386830	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386830/coverage.w5	384	384	0.02	sum_sqrt	231	RNA:ActD:HUES9__2h__rep1	.
+232	SRS1386831	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386831/coverage.w5	384	384	0.02	sum_sqrt	232	RNA:ActD:HUES9__2h__rep0	.
+233	SRS1386832	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386832/coverage.w5	384	384	0.02	sum_sqrt	233	RNA:ActD:HUES9__0.5h__rep2	.
+234	SRS1386833	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386833/coverage.w5	384	384	0.02	sum_sqrt	234	RNA:ActD:HUES9__0.5h__rep1	.
+235	SRS1386834	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386834/coverage.w5	384	384	0.02	sum_sqrt	235	RNA:ActD:HUES9__0.5h__rep0	.
+236	SRS1386835	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386835/coverage.w5	384	384	0.02	sum_sqrt	236	RNA:ActD:HUES9__0.0h__rep2	.
+237	SRS1386836	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386836/coverage.w5	384	384	0.02	sum_sqrt	237	RNA:ActD:HUES9__0.0h__rep1	.
+238	SRS1386837	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP073186/SRS1386837/coverage.w5	384	384	0.02	sum_sqrt	238	RNA:ActD:HUES9__0.0h__rep0	.
+239	SRS1824857	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824857/coverage.w5	384	384	0.02	sum_sqrt	239	RNA:ActD:HepG2_shNS_0h_rep1 (RNA-seq_rep1)	.
+240	SRS1824858	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824858/coverage.w5	384	384	0.02	sum_sqrt	240	RNA:ActD:HepG2_shNS_0h_rep2 (RNA-seq_rep2)	.
+241	SRS1824859	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824859/coverage.w5	384	384	0.02	sum_sqrt	241	RNA:ActD:HepG2_shNS_1h_rep1	.
+242	SRS1824860	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824860/coverage.w5	384	384	0.02	sum_sqrt	242	RNA:ActD:HepG2_shNS_1h_rep2	.
+243	SRS1824861	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824861/coverage.w5	384	384	0.02	sum_sqrt	243	RNA:ActD:HepG2_shNS_3h_rep1	.
+244	SRS1824862	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824862/coverage.w5	384	384	0.02	sum_sqrt	244	RNA:ActD:HepG2_shNS_3h_rep2	.
+245	SRS1824863	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824863/coverage.w5	384	384	0.02	sum_sqrt	245	RNA:ActD:HepG2_shNS_6h_rep1	.
+246	SRS1824864	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824864/coverage.w5	384	384	0.02	sum_sqrt	246	RNA:ActD:HepG2_shNS_6h_rep2	.
+247	SRS1824865	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824865/coverage.w5	384	384	0.02	sum_sqrt	247	RNA:ActD:HepG2_shIGF2BP1_0h_rep1 (RNA-seq_rep1)	.
+248	SRS1824866	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824866/coverage.w5	384	384	0.02	sum_sqrt	248	RNA:ActD:HepG2_shIGF2BP1_0h_rep2 (RNA-seq_rep2)	.
+249	SRS1824867	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824867/coverage.w5	384	384	0.02	sum_sqrt	249	RNA:ActD:HepG2_shIGF2BP1_1h_rep1	.
+250	SRS1824868	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824868/coverage.w5	384	384	0.02	sum_sqrt	250	RNA:ActD:HepG2_shIGF2BP1_1h_rep2	.
+251	SRS1824869	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824869/coverage.w5	384	384	0.02	sum_sqrt	251	RNA:ActD:HepG2_shIGF2BP1_3h_rep1	.
+252	SRS1824870	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824870/coverage.w5	384	384	0.02	sum_sqrt	252	RNA:ActD:HepG2_shIGF2BP1_3h_rep2	.
+253	SRS1824871	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824871/coverage.w5	384	384	0.02	sum_sqrt	253	RNA:ActD:HepG2_shIGF2BP1_6h_rep1	.
+254	SRS1824872	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP094100/SRS1824872/coverage.w5	384	384	0.02	sum_sqrt	254	RNA:ActD:HepG2_shIGF2BP1_6h_rep2	.
+255	SRS2648973	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP123295/SRS2648973/coverage.w5	384	384	0.02	sum_sqrt	255	RNA:4sU:HEK293_1h_R1	.
+256	SRS2648974	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP123295/SRS2648974/coverage.w5	384	384	0.02	sum_sqrt	256	RNA:4sU:HEK293_2h_R1	.
+257	SRS2648975	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP123295/SRS2648975/coverage.w5	384	384	0.02	sum_sqrt	257	RNA:4sU:HEK293_4h_R1	.
+258	SRS2648976	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP123295/SRS2648976/coverage.w5	384	384	0.02	sum_sqrt	258	RNA:4sU:HEK293_8h_R1	.
+259	SRS2648977	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP123295/SRS2648977/coverage.w5	384	384	0.02	sum_sqrt	259	RNA:4sU:HEK293_12h_R1	.
+260	SRS2648978	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP123295/SRS2648978/coverage.w5	384	384	0.02	sum_sqrt	260	RNA:4sU:HEK293_24h_R1	.
+261	SRS2648979	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP123295/SRS2648979/coverage.w5	384	384	0.02	sum_sqrt	261	RNA:4sU:HEK293_SS_R1	.
+262	SRS2987611	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987611/coverage.w5	384	384	0.02	sum_sqrt	262	RNA:4sU:K562 s4u feed + chemical treatment: N/A total RNA (ED161201)	.
+263	SRS2987612	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987612/coverage.w5	384	384	0.02	sum_sqrt	263	RNA:4sU:K562 s4u feed + chemical treatment: N/A enriched RNA (ED161202)	.
+264	SRS2987613	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987613/coverage.w5	384	384	0.02	sum_sqrt	264	RNA:4sU:K562 s4u feed + chemical treatment: N/A enriched RNA (ED161203)	.
+265	SRS2987614	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987614/coverage.w5	384	384	0.02	sum_sqrt	265	RNA:4sU:K562 s4u feed + chemical treatment: 2h 1 mM s4U, 0.5h 20 mM U enriched RNA (ED161206)	.
+266	SRS2987615	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987615/coverage.w5	384	384	0.02	sum_sqrt	266	RNA:4sU:K562 s4u feed + chemical treatment: 2h 1 mM s4U, 0.5h 20 mM U enriched RNA (ED161207)	.
+267	SRS2987616	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987616/coverage.w5	384	384	0.02	sum_sqrt	267	RNA:4sU:K562 s4u feed + chemical treatment: 2h 1 mM s4U, 0.5h 20 mM U enriched RNA (ED161208)	.
+268	SRS2987617	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987617/coverage.w5	384	384	0.02	sum_sqrt	268	RNA:4sU:K562 s4u feed + chemical treatment: 2h 1 mM s4U, 18h 20 mM U enriched RNA (ED161209)	.
+269	SRS2987618	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987618/coverage.w5	384	384	0.02	sum_sqrt	269	RNA:4sU:K562 s4u feed + chemical treatment: 2h 1 mM s4U, 18h 20 mM U enriched RNA (ED161210)	.
+270	SRS2987619	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987619/coverage.w5	384	384	0.02	sum_sqrt	270	RNA:4sU:K562 s4u feed + chemical treatment: 2h 1 mM s4U, 18h 20 mM U enriched RNA (ED161211)	.
+271	SRS2987620	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987620/coverage.w5	384	384	0.02	sum_sqrt	271	RNA:4sU:K562 s4u feed NA total RNA (ED170301)	.
+272	SRS2987621	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987621/coverage.w5	384	384	0.02	sum_sqrt	272	RNA:4sU:K562 s4u feed NA total RNA (ED170302)	.
+273	SRS2987622	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987622/coverage.w5	384	384	0.02	sum_sqrt	273	RNA:4sU:K562 s4u feed NA enriched RNA (ED170303)	.
+274	SRS2987623	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987623/coverage.w5	384	384	0.02	sum_sqrt	274	RNA:4sU:K562 s4u feed NA enriched RNA (ED170304)	.
+275	SRS2987624	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987624/coverage.w5	384	384	0.02	sum_sqrt	275	RNA:4sU:K562 s4u feed 5 min 1 mM s4U enriched RNA (ED170305)	.
+276	SRS2987625	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP133231/SRS2987625/coverage.w5	384	384	0.02	sum_sqrt	276	RNA:4sU:K562 s4u feed 5 min 1 mM s4U enriched RNA (ED170306)	.
+277	SRS3561638	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561638/coverage.w5	384	384	0.02	sum_sqrt	277	RNA:4sU:K562 enriched L_15_2	.
+278	SRS3561639	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561639/coverage.w5	384	384	0.02	sum_sqrt	278	RNA:4sU:K562 enriched L_10_2	.
+279	SRS3561640	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561640/coverage.w5	384	384	0.02	sum_sqrt	279	RNA:4sU:K562 enriched L_15_1	.
+280	SRS3561641	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561641/coverage.w5	384	384	0.02	sum_sqrt	280	RNA:4sU:K562 enriched L_10_1	.
+281	SRS3561642	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561642/coverage.w5	384	384	0.02	sum_sqrt	281	RNA:4sU:K562 enriched L_05_2	.
+282	SRS3561643	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561643/coverage.w5	384	384	0.02	sum_sqrt	282	RNA:4sU:K562 enriched L_05_1	.
+283	SRS3561644	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561644/coverage.w5	384	384	0.02	sum_sqrt	283	RNA:4sU:K562 enriched L_02_2	.
+284	SRS3561645	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561645/coverage.w5	384	384	0.02	sum_sqrt	284	RNA:4sU:K562 enriched L_02_1	.
+285	SRS3561646	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561646/coverage.w5	384	384	0.02	sum_sqrt	285	RNA:4sU:K562 enriched L_20_2	.
+286	SRS3561647	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561647/coverage.w5	384	384	0.02	sum_sqrt	286	RNA:4sU:K562 enriched L_20_1	.
+287	SRS3561648	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561648/coverage.w5	384	384	0.02	sum_sqrt	287	RNA:4sU:K562 enriched L_60_2	.
+288	SRS3561649	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561649/coverage.w5	384	384	0.02	sum_sqrt	288	RNA:4sU:K562 enriched L_60_1	.
+289	SRS3561650	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561650/coverage.w5	384	384	0.02	sum_sqrt	289	RNA:4sU:K562 enriched L_30_2	.
+290	SRS3561651	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561651/coverage.w5	384	384	0.02	sum_sqrt	290	RNA:4sU:K562 enriched L_30_1	.
+291	SRS3561652	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561652/coverage.w5	384	384	0.02	sum_sqrt	291	RNA:4sU:K562 total T_05_2	.
+292	SRS3561653	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561653/coverage.w5	384	384	0.02	sum_sqrt	292	RNA:4sU:K562 total T_05_1	.
+293	SRS3561654	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561654/coverage.w5	384	384	0.02	sum_sqrt	293	RNA:4sU:K562 total T_02_2	.
+294	SRS3561655	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561655/coverage.w5	384	384	0.02	sum_sqrt	294	RNA:4sU:K562 total T_10_2	.
+295	SRS3561656	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561656/coverage.w5	384	384	0.02	sum_sqrt	295	RNA:4sU:K562 total T_10_1	.
+296	SRS3561657	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561657/coverage.w5	384	384	0.02	sum_sqrt	296	RNA:4sU:K562 total T_02_1	.
+297	SRS3561658	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561658/coverage.w5	384	384	0.02	sum_sqrt	297	RNA:4sU:K562 total T_60_1	.
+298	SRS3561659	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561659/coverage.w5	384	384	0.02	sum_sqrt	298	RNA:4sU:K562 total T_60_2	.
+299	SRS3561660	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561660/coverage.w5	384	384	0.02	sum_sqrt	299	RNA:4sU:K562 total T_30_1	.
+300	SRS3561661	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561661/coverage.w5	384	384	0.02	sum_sqrt	300	RNA:4sU:K562 total T_30_2	.
+301	SRS3561662	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561662/coverage.w5	384	384	0.02	sum_sqrt	301	RNA:4sU:K562 total T_20_1	.
+302	SRS3561663	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561663/coverage.w5	384	384	0.02	sum_sqrt	302	RNA:4sU:K562 total T_20_2	.
+303	SRS3561664	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561664/coverage.w5	384	384	0.02	sum_sqrt	303	RNA:4sU:K562 total T_15_1	.
+304	SRS3561665	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP154414/SRS3561665/coverage.w5	384	384	0.02	sum_sqrt	304	RNA:4sU:K562 total T_15_2	.
+305	SRS3789185	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789185/coverage.w5	384	384	0.02	sum_sqrt	305	RNA:4sU:MCF7 RNA_pulse_4sU 0h Total Rep2	.
+306	SRS3789186	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789186/coverage.w5	384	384	0.02	sum_sqrt	306	RNA:4sU:MCF7 RNA_pulse_4sU 2h biotin-enrich Rep2	.
+307	SRS3789187	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789187/coverage.w5	384	384	0.02	sum_sqrt	307	RNA:4sU:MCF7 RNA_pulse_4sU 2h Total Rep2	.
+308	SRS3789188	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789188/coverage.w5	384	384	0.02	sum_sqrt	308	RNA:4sU:MCF7 RNA_pulse_4sU 8h biotin-enrich Rep1	.
+309	SRS3789189	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789189/coverage.w5	384	384	0.02	sum_sqrt	309	RNA:4sU:MCF7 RNA_pulse_4sU 4h biotin-enrich Rep1	.
+310	SRS3789190	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789190/coverage.w5	384	384	0.02	sum_sqrt	310	RNA:4sU:MCF7 RNA_pulse_4sU 8h Total Rep1	.
+311	SRS3789191	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789191/coverage.w5	384	384	0.02	sum_sqrt	311	RNA:4sU:MCF7 RNA_pulse_4sU 2h Total Rep1	.
+312	SRS3789192	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789192/coverage.w5	384	384	0.02	sum_sqrt	312	RNA:4sU:MCF7 RNA_pulse_4sU 4h Total Rep1	.
+313	SRS3789193	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789193/coverage.w5	384	384	0.02	sum_sqrt	313	RNA:4sU:MCF7 RNA_pulse_4sU 2h biotin-enrich Rep1	.
+314	SRS3789194	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789194/coverage.w5	384	384	0.02	sum_sqrt	314	RNA:4sU:MCF7 RNA_pulse_4sU 8h biotin-enrich Rep2	.
+315	SRS3789195	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789195/coverage.w5	384	384	0.02	sum_sqrt	315	RNA:4sU:MCF7 RNA_pulse_4sU 0h Total Rep1	.
+316	SRS3789196	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789196/coverage.w5	384	384	0.02	sum_sqrt	316	RNA:4sU:MCF7 RNA_pulse_4sU 8h Total Rep2	.
+317	SRS3789197	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789197/coverage.w5	384	384	0.02	sum_sqrt	317	RNA:4sU:MCF7 RNA_pulse_4sU 4h biotin-enrich Rep2	.
+318	SRS3789198	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP161905/SRS3789198/coverage.w5	384	384	0.02	sum_sqrt	318	RNA:4sU:MCF7 RNA_pulse_4sU 4h Total Rep2	.
+319	SRS4946692	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946692/coverage.w5	384	384	0.02	sum_sqrt	319	RNA:4sU:HEK293T hORFeome CL2_4h	.
+320	SRS4946693	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946693/coverage.w5	384	384	0.02	sum_sqrt	320	RNA:4sU:HEK293T hORFeome CL1_12h	.
+321	SRS4946694	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946694/coverage.w5	384	384	0.02	sum_sqrt	321	RNA:4sU:HEK293T hORFeome CL2_24h	.
+322	SRS4946695	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946695/coverage.w5	384	384	0.02	sum_sqrt	322	RNA:4sU:HEK293T hORFeome CL2_SteadyState	.
+323	SRS4946696	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946696/coverage.w5	384	384	0.02	sum_sqrt	323	RNA:4sU:HEK293T hORFeome CL3_1h	.
+324	SRS4946697	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946697/coverage.w5	384	384	0.02	sum_sqrt	324	RNA:4sU:HEK293T hORFeome CL3_2h	.
+325	SRS4946698	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946698/coverage.w5	384	384	0.02	sum_sqrt	325	RNA:4sU:HEK293T hORFeome CL3_4h	.
+326	SRS4946699	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946699/coverage.w5	384	384	0.02	sum_sqrt	326	RNA:4sU:HEK293T hORFeome CL3_12h	.
+327	SRS4946700	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946700/coverage.w5	384	384	0.02	sum_sqrt	327	RNA:4sU:HEK293T hORFeome CL3_24h	.
+328	SRS4946701	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946701/coverage.w5	384	384	0.02	sum_sqrt	328	RNA:4sU:HEK293T hORFeome CL3_SteadyState	.
+329	SRS4946702	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946702/coverage.w5	384	384	0.02	sum_sqrt	329	RNA:4sU:HEK293T hORFeome CL5_1h	.
+330	SRS4946703	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946703/coverage.w5	384	384	0.02	sum_sqrt	330	RNA:4sU:HEK293T hORFeome CL5_2h	.
+331	SRS4946704	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946704/coverage.w5	384	384	0.02	sum_sqrt	331	RNA:4sU:HEK293T hORFeome CL5_4h	.
+332	SRS4946705	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946705/coverage.w5	384	384	0.02	sum_sqrt	332	RNA:4sU:HEK293T hORFeome CL5_12h	.
+333	SRS4946706	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946706/coverage.w5	384	384	0.02	sum_sqrt	333	RNA:4sU:HEK293T hORFeome CL5_24h	.
+334	SRS4946707	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946707/coverage.w5	384	384	0.02	sum_sqrt	334	RNA:4sU:HEK293T hORFeome CL5_SteadyState	.
+335	SRS4946708	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946708/coverage.w5	384	384	0.02	sum_sqrt	335	RNA:4sU:HEK293T hORFeome CL6_1h	.
+336	SRS4946709	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946709/coverage.w5	384	384	0.02	sum_sqrt	336	RNA:4sU:HEK293T hORFeome CL6_2h	.
+337	SRS4946710	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946710/coverage.w5	384	384	0.02	sum_sqrt	337	RNA:4sU:HEK293T hORFeome CL6_4h	.
+338	SRS4946711	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946711/coverage.w5	384	384	0.02	sum_sqrt	338	RNA:4sU:HEK293T hORFeome CL6_12h	.
+339	SRS4946712	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946712/coverage.w5	384	384	0.02	sum_sqrt	339	RNA:4sU:HEK293T hORFeome CL6_24h	.
+340	SRS4946713	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946713/coverage.w5	384	384	0.02	sum_sqrt	340	RNA:4sU:HEK293T hORFeome CL6_SteadyState	.
+341	SRS4946714	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946714/coverage.w5	384	384	0.02	sum_sqrt	341	RNA:4sU:HEK293T hORFeome CL2_1h	.
+342	SRS4946715	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP171608/SRS4946715/coverage.w5	384	384	0.02	sum_sqrt	342	RNA:4sU:HEK293T hORFeome CL2_2h	.
+343	SRS4362906	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362906/coverage.w5	384	384	0.02	sum_sqrt	343	RNA:ActD:HEK293T 293t_1h_ad_A	.
+344	SRS4362907	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362907/coverage.w5	384	384	0.02	sum_sqrt	344	RNA:ActD:HEK293T 293t_0h_B	.
+345	SRS4362908	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362908/coverage.w5	384	384	0.02	sum_sqrt	345	RNA:ActD:HEK293T 293t_0h_A	.
+346	SRS4362909	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362909/coverage.w5	384	384	0.02	sum_sqrt	346	RNA:ActD:HEK293T 293t_1h_chx_A	.
+347	SRS4362910	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362910/coverage.w5	384	384	0.02	sum_sqrt	347	RNA:ActD:HEK293T 293t_3h_ad_A	.
+348	SRS4362911	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362911/coverage.w5	384	384	0.02	sum_sqrt	348	RNA:ActD:HEK293T 293t_3h_chx_A	.
+349	SRS4362912	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362912/coverage.w5	384	384	0.02	sum_sqrt	349	RNA:ActD:HEK293T 293t_6h_ad_A	.
+350	SRS4362913	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362913/coverage.w5	384	384	0.02	sum_sqrt	350	RNA:ActD:HEK293T 293t_6h_chx_A	.
+351	SRS4362914	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362914/coverage.w5	384	384	0.02	sum_sqrt	351	RNA:ActD:HEK293T 293t_6h_ad_B	.
+352	SRS4362915	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP185833/SRS4362915/coverage.w5	384	384	0.02	sum_sqrt	352	RNA:ActD:HEK293T 293t_6h_chx_B	.
