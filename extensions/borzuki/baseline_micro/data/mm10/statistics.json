@@ -1,0 +1,16 @@
+{
+    "num_targets": 49,
+    "seq_length": 393216,
+    "seq_1hot": true,
+    "pool_width": 32,
+    "crop_bp": 0,
+    "target_length": 12288,
+    "fold0_seqs": 3027,
+    "fold1_seqs": 3031,
+    "fold2_seqs": 3104,
+    "fold3_seqs": 2985,
+    "fold4_seqs": 3100,
+    "fold5_seqs": 2937,
+    "fold6_seqs": 2967,
+    "fold7_seqs": 3020
+}

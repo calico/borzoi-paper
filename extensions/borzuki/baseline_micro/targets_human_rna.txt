@@ -1,0 +1,90 @@
+	identifier	source	file	clip	clip_soft	scale	sum_stat	strand_pair	description	strand
+34	ENCFF470BSF+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEC/summary/coverage+.w5	384	384	0.3	sum_sqrt	35	RNA:GM12878	+
+35	ENCFF470BSF-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEC/summary/coverage-.w5	384	384	0.3	sum_sqrt	34	RNA:GM12878	-
+36	ENCFF617ZDV+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AED/summary/coverage+.w5	384	384	0.3	sum_sqrt	37	RNA:GM12878	+
+37	ENCFF617ZDV-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AED/summary/coverage-.w5	384	384	0.3	sum_sqrt	36	RNA:GM12878	-
+38	ENCFF993POP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEE/summary/coverage+.w5	384	384	0.3	sum_sqrt	39	RNA:GM12878	+
+39	ENCFF993POP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEE/summary/coverage-.w5	384	384	0.3	sum_sqrt	38	RNA:GM12878	-
+40	ENCFF678ITA+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEF/summary/coverage+.w5	384	384	0.3	sum_sqrt	41	RNA:GM12878	+
+41	ENCFF678ITA-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEF/summary/coverage-.w5	384	384	0.3	sum_sqrt	40	RNA:GM12878	-
+42	ENCFF812WIL	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEG/summary/coverage.w5	384	384	0.3	sum_sqrt	42	RNA:GM12878	.
+43	ENCFF142WGV	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEH/summary/coverage.w5	384	384	0.3	sum_sqrt	43	RNA:GM12878	.
+44	ENCFF980ZHM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEL/summary/coverage+.w5	384	384	0.3	sum_sqrt	45	RNA:K562	+
+45	ENCFF980ZHM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEL/summary/coverage-.w5	384	384	0.3	sum_sqrt	44	RNA:K562	-
+46	ENCFF132DVY+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEM/summary/coverage+.w5	384	384	0.3	sum_sqrt	47	RNA:K562	+
+47	ENCFF132DVY-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEM/summary/coverage-.w5	384	384	0.3	sum_sqrt	46	RNA:K562	-
+48	ENCFF919EXM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEN/summary/coverage+.w5	384	384	0.3	sum_sqrt	49	RNA:K562	+
+49	ENCFF919EXM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEN/summary/coverage-.w5	384	384	0.3	sum_sqrt	48	RNA:K562	-
+50	ENCFF552CYS+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEO/summary/coverage+.w5	384	384	0.3	sum_sqrt	51	RNA:K562	+
+51	ENCFF552CYS-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEO/summary/coverage-.w5	384	384	0.3	sum_sqrt	50	RNA:K562	-
+52	ENCFF991BRF	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEP/summary/coverage.w5	384	384	0.3	sum_sqrt	52	RNA:K562	.
+53	ENCFF769VLM	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000AEQ/summary/coverage.w5	384	384	0.3	sum_sqrt	53	RNA:K562	.
+54	ENCFF549SVZ	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000BXX/summary/coverage.w5	384	384	0.3	sum_sqrt	54	RNA:Jurkat, Clone E6-1	.
+55	ENCFF501KFP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000COU/summary/coverage+.w5	384	384	0.3	sum_sqrt	56	RNA:H1	+
+56	ENCFF501KFP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000COU/summary/coverage-.w5	384	384	0.3	sum_sqrt	55	RNA:H1	-
+57	ENCFF065PJM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPE/summary/coverage+.w5	384	384	0.3	sum_sqrt	58	RNA:HepG2	+
+58	ENCFF065PJM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPE/summary/coverage-.w5	384	384	0.3	sum_sqrt	57	RNA:HepG2	-
+59	ENCFF119ONM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPH/summary/coverage+.w5	384	384	0.3	sum_sqrt	60	RNA:K562	+
+60	ENCFF119ONM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPH/summary/coverage-.w5	384	384	0.3	sum_sqrt	59	RNA:K562	-
+61	ENCFF425GMM+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPP/summary/coverage+.w5	384	384	0.3	sum_sqrt	62	RNA:HeLa-S3 cytosolic fraction	+
+62	ENCFF425GMM-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPP/summary/coverage-.w5	384	384	0.3	sum_sqrt	61	RNA:HeLa-S3 cytosolic fraction	-
+63	ENCFF515VVS+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPQ/summary/coverage+.w5	384	384	0.3	sum_sqrt	64	RNA:HeLa-S3 nuclear fraction	+
+64	ENCFF515VVS-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPQ/summary/coverage-.w5	384	384	0.3	sum_sqrt	63	RNA:HeLa-S3 nuclear fraction	-
+65	ENCFF708PAF+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPR/summary/coverage+.w5	384	384	0.3	sum_sqrt	66	RNA:HeLa-S3	+
+66	ENCFF708PAF-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPR/summary/coverage-.w5	384	384	0.3	sum_sqrt	65	RNA:HeLa-S3	-
+67	ENCFF795XIC+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPT/summary/coverage+.w5	384	384	0.3	sum_sqrt	68	RNA:MCF-7	+
+68	ENCFF795XIC-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CPT/summary/coverage-.w5	384	384	0.3	sum_sqrt	67	RNA:MCF-7	-
+69	ENCFF808PHI	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000CWQ/summary/coverage.w5	384	384	0.3	sum_sqrt	69	RNA:MCF-7	.
+70	ENCFF684NXV	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYN/summary/coverage.w5	384	384	0.3	sum_sqrt	70	RNA:GM12878	.
+71	ENCFF860AKE	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYO/summary/coverage.w5	384	384	0.3	sum_sqrt	71	RNA:K562	.
+72	ENCFF587FSZ	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYQ/summary/coverage.w5	384	384	0.3	sum_sqrt	72	RNA:HeLa-S3	.
+73	ENCFF995HXY	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR000EYR/summary/coverage.w5	384	384	0.3	sum_sqrt	73	RNA:HepG2	.
+74	ENCFF636VGI+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR043RSE/summary/coverage+.w5	384	384	0.3	sum_sqrt	75	RNA:H1	+
+75	ENCFF636VGI-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR043RSE/summary/coverage-.w5	384	384	0.3	sum_sqrt	74	RNA:H1	-
+76	ENCFF073NKN	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR077AZT/summary/coverage.w5	384	384	0.3	sum_sqrt	76	RNA:GM12878	.
+77	ENCFF944XYT+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR109IQO/summary/coverage+.w5	384	384	0.3	sum_sqrt	78	RNA:K562	+
+78	ENCFF944XYT-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR109IQO/summary/coverage-.w5	384	384	0.3	sum_sqrt	77	RNA:K562	-
+79	ENCFF782HFV+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR151NGC/summary/coverage+.w5	384	384	0.3	sum_sqrt	80	RNA:GM12878	+
+80	ENCFF782HFV-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR151NGC/summary/coverage-.w5	384	384	0.3	sum_sqrt	79	RNA:GM12878	-
+81	ENCFF581ZGH+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR181ZGR/summary/coverage+.w5	384	384	0.3	sum_sqrt	82	RNA:HepG2	+
+82	ENCFF581ZGH-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR181ZGR/summary/coverage-.w5	384	384	0.3	sum_sqrt	81	RNA:HepG2	-
+83	ENCFF908VIH+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR245ATJ/summary/coverage+.w5	384	384	0.3	sum_sqrt	84	RNA:HepG2	+
+84	ENCFF908VIH-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR245ATJ/summary/coverage-.w5	384	384	0.3	sum_sqrt	83	RNA:HepG2	-
+85	ENCFF801PRP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR329MHM/summary/coverage+.w5	384	384	0.3	sum_sqrt	86	RNA:HepG2	+
+86	ENCFF801PRP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR329MHM/summary/coverage-.w5	384	384	0.3	sum_sqrt	85	RNA:HepG2	-
+87	ENCFF301XEH+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR355JZC/summary/coverage+.w5	384	384	0.3	sum_sqrt	88	RNA:MCF-7	+
+88	ENCFF301XEH-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR355JZC/summary/coverage-.w5	384	384	0.3	sum_sqrt	87	RNA:MCF-7	-
+89	ENCFF181QTI+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR490SQH/summary/coverage+.w5	384	384	0.3	sum_sqrt	90	RNA:H7	+
+90	ENCFF181QTI-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR490SQH/summary/coverage-.w5	384	384	0.3	sum_sqrt	89	RNA:H7	-
+91	ENCFF150UWD+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR552EGO/summary/coverage+.w5	384	384	0.3	sum_sqrt	92	RNA:HeLa-S3	+
+92	ENCFF150UWD-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR552EGO/summary/coverage-.w5	384	384	0.3	sum_sqrt	91	RNA:HeLa-S3	-
+93	ENCFF917RKL+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR561FEE/summary/coverage+.w5	384	384	0.3	sum_sqrt	94	RNA:HepG2	+
+94	ENCFF917RKL-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR561FEE/summary/coverage-.w5	384	384	0.3	sum_sqrt	93	RNA:HepG2	-
+95	ENCFF520RFL+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR588EJX/summary/coverage+.w5	384	384	0.3	sum_sqrt	96	RNA:H1	+
+96	ENCFF520RFL-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR588EJX/summary/coverage-.w5	384	384	0.3	sum_sqrt	95	RNA:H1	-
+97	ENCFF585HTZ+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR615EEK/summary/coverage+.w5	384	384	0.3	sum_sqrt	98	RNA:K562	+
+98	ENCFF585HTZ-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR615EEK/summary/coverage-.w5	384	384	0.3	sum_sqrt	97	RNA:K562	-
+99	ENCFF544ZDA+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR637VLS/summary/coverage+.w5	384	384	0.3	sum_sqrt	100	RNA:K562	+
+100	ENCFF544ZDA-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR637VLS/summary/coverage-.w5	384	384	0.3	sum_sqrt	99	RNA:K562	-
+101	ENCFF190ZWO+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR670WQY/summary/coverage+.w5	384	384	0.3	sum_sqrt	102	RNA:H1	+
+102	ENCFF190ZWO-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR670WQY/summary/coverage-.w5	384	384	0.3	sum_sqrt	101	RNA:H1	-
+103	ENCFF920HIF+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR712BRU/summary/coverage+.w5	384	384	0.3	sum_sqrt	104	RNA:H9	+
+104	ENCFF920HIF-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR712BRU/summary/coverage-.w5	384	384	0.3	sum_sqrt	103	RNA:H9	-
+105	ENCFF312ZLI+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR792OIJ/summary/coverage+.w5	384	384	0.3	sum_sqrt	106	RNA:K562	+
+106	ENCFF312ZLI-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR792OIJ/summary/coverage-.w5	384	384	0.3	sum_sqrt	105	RNA:K562	-
+107	ENCFF509KPQ+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR820PHH/summary/coverage+.w5	384	384	0.3	sum_sqrt	108	RNA:GM12878	+
+108	ENCFF509KPQ-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR820PHH/summary/coverage-.w5	384	384	0.3	sum_sqrt	107	RNA:GM12878	-
+109	ENCFF463TDW	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR843RJV/summary/coverage.w5	384	384	0.3	sum_sqrt	109	RNA:GM12878	.
+110	ENCFF278EZT+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR885DVH/summary/coverage+.w5	384	384	0.3	sum_sqrt	111	RNA:K562	+
+111	ENCFF278EZT-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR885DVH/summary/coverage-.w5	384	384	0.3	sum_sqrt	110	RNA:K562	-
+112	ENCFF279MVV	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR889TRN/summary/coverage.w5	384	384	0.3	sum_sqrt	112	RNA:GM12878	.
+113	ENCFF031QGE+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR895ZTB/summary/coverage+.w5	384	384	0.3	sum_sqrt	114	RNA:H1	+
+114	ENCFF031QGE-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR895ZTB/summary/coverage-.w5	384	384	0.3	sum_sqrt	113	RNA:H1	-
+115	ENCFF696GRP+	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR985KAT/summary/coverage+.w5	384	384	0.3	sum_sqrt	116	RNA:HepG2	+
+116	ENCFF696GRP-	encode	/scratch4/jlinder/tillage/datasets/human/rna/encode/ENCSR985KAT/summary/coverage-.w5	384	384	0.3	sum_sqrt	115	RNA:HepG2	-
+117	SRS504584	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP028887/SRS504584/coverage.w5	384	384	0.02	sum_sqrt	117	RNA:4sU:HEK293 total RNA	.
+118	SRS1013683	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013683/coverage.w5	384	384	0.02	sum_sqrt	118	RNA:4sU:Jurkat total RNA Unactivated hours UCT	.
+119	SRS1013684	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013684/coverage.w5	384	384	0.02	sum_sqrt	119	RNA:4sU:Jurkat total RNA Unactivated hours UBT	.
+120	SRS1013685	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP061639/SRS1013685/coverage.w5	384	384	0.02	sum_sqrt	120	RNA:4sU:Jurkat total RNA Unactivated hours UAT	.
+121	SRS1303351	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303351/coverage.w5	384	384	0.02	sum_sqrt	121	RNA:ActD:HEK293T Control for DCP2 knockout 2	.
+122	SRS1303352	recount3	/scratch4/jlinder/tillage/datasets/human/rna/recount3/SRP070463/SRS1303352/coverage.w5	384	384	0.02	sum_sqrt	122	RNA:ActD:HEK293T Control for DCP2 knockout 1	.
