@@ -1,6 +1,6 @@
 # Borzoi Model Training & Evaluation
 
-This repository contains shell scripts, notebooks, commands, etc. related to the analyses performed in the [Borzoi paper](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1), including data processing, model training, and evaluation. These analyses invoke functionality from the [borzoi](https://github.com/calico/borzoi.git), [baskerville](https://github.com/calico/baskerville.git), and [westminster](https://github.com/calico/westminster.git) repositories. Visit those links for general install instructions.
+This repository contains shell scripts, notebooks, commands, etc. related to the analyses performed in the [Borzoi paper](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1), including data processing, model training, and evaluation. These analyses invoke functionality from the [borzoi](https://github.com/calico/borzoi.git), [baskerville-tf](https://github.com/calico/baskerville-tf.git), and [westminster](https://github.com/calico/westminster.git) repositories. Visit those links for general install instructions.
 
 *Tip*: When executing .sh scripts found in this directory structure, we recommend first navigating in the terminal to the 'borzoi/examples' directory from the [borzoi repository](https://github.com/calico/borzoi), since all file paths are relative to this root directory.
 
